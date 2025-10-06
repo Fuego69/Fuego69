@@ -50,3 +50,5 @@
 </picture>
 
 ###
+
+![snake gif](https://github.com/Fuego69/Fuego69/blob/output/github-snake-dark.svg)
